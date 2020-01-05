@@ -1,0 +1,6 @@
+id=DisableHuaweiFingerprintNav
+name=Disable Huawei Fingerprint Navigation
+version=v1.0
+versionCode=1
+author=Slackter
+description=Disables the fingerprint navigation on a Huawei MediaPad M5
